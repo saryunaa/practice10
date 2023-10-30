@@ -1,0 +1,14 @@
+C:\Users\verah\source\repos\Pr100\Pr100\obj\Debug\Pr100.csproj.AssemblyReference.cache
+C:\Users\verah\source\repos\Pr100\Pr100\obj\Debug\Pr100.csproj.CoreCompileInputs.cache
+C:\Users\verah\source\repos\Pr100\Pr100\bin\Debug\Pr100.exe.config
+C:\Users\verah\source\repos\Pr100\Pr100\bin\Debug\Pr100.exe
+C:\Users\verah\source\repos\Pr100\Pr100\bin\Debug\Pr100.pdb
+C:\Users\verah\source\repos\Pr100\Pr100\obj\Debug\Pr100.exe
+C:\Users\verah\source\repos\Pr100\Pr100\obj\Debug\Pr100.pdb
+C:\Users\User\Desktop\Pr100\Pr100\bin\Debug\Pr100.exe.config
+C:\Users\User\Desktop\Pr100\Pr100\bin\Debug\Pr100.exe
+C:\Users\User\Desktop\Pr100\Pr100\bin\Debug\Pr100.pdb
+C:\Users\User\Desktop\Pr100\Pr100\obj\Debug\Pr100.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Pr100\Pr100\obj\Debug\Pr100.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pr100\Pr100\obj\Debug\Pr100.exe
+C:\Users\User\Desktop\Pr100\Pr100\obj\Debug\Pr100.pdb
